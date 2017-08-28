@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C3E81C90A14BD732F3E7D5675226108B11C4C84B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A84C0CA27D44E1596FC5498C81D9C5B83A1C4E03" : 9223372036854775807,
+    "C3E81C90A14BD732F3E7D5675226108B11C4C84B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B4B53878-241B-4A2B-9CBE-EC7B5698D110",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A84C0CA27D44E1596FC5498C81D9C5B83A1C4E03" : "..",
+    "C3E81C90A14BD732F3E7D5675226108B11C4C84B" : "Swift_Fundamentals\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "BinaryCounter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "BinaryCounter\/BinaryCounter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kavyanagaraj\/DojoAssignments.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A84C0CA27D44E1596FC5498C81D9C5B83A1C4E03"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kavyanagaraj\/iOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C3E81C90A14BD732F3E7D5675226108B11C4C84B"
+    }
+  ]
+}
